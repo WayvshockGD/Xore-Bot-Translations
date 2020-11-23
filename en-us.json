@@ -1,0 +1,21 @@
+{
+    "main": {
+        "ping": {
+            "pong": "Ping?",
+            "ping": "pong!",
+            "60": "lookin good :sunglasses:",
+            "120": "good",
+            "200": "i guess",
+            "300": "um",
+            "400": "hmmmmmm",
+            "500": "oh no",
+            "600": "bad",
+            "700": "that is very bad :worried:"
+        },
+
+        "embeds": {
+            "helpTitle1": "Command Name:",
+            "Helpfooter1": "() - optional | <> - required"
+        }
+    }
+}
